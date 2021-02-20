@@ -1,6 +1,6 @@
 # Medicare-Payment-Statistical-Analysis
 
-**Business Value:** Achieved statistical analysis of Medicare Payments for more than 500 DRG's and 2500+ facilities in the United States with a goal of scrutinizing payment differences across states, predicted out of pocket payments and extra charges for 500+ DRG’s and identified top 5 overcharging facilities in Florida.
+**Business Value:** Achieved statistical analysis of Medicare Payments for 2500+ facilities in the United States with a goal of scrutinizing payment differences across states, predicted out of pocket payments and extra charges for 500+ DRG’s and identified top 5 overcharging facilities in Florida.
 
 # Project Overview
 
