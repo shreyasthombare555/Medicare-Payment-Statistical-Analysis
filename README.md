@@ -44,5 +44,11 @@ iv) State of Virginia has the minimum medicare payment considering other states 
 
 v) Hospitals should focus on improving their Total Performance Score in order to minimize losses in terms of payment cuts from Medicare. Out of the 2500 unique medical facilities in our dataset, only 105 providers had a TPS >= 59 (the threshold beyond which payment reductions kick in).
 
+# Technologies Used 
 
+i) R programming
+
+ii) MS Excel
+
+iii) Tableau
 
