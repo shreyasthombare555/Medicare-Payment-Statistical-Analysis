@@ -12,7 +12,7 @@ Data Source for Average Population and Average Household income across all the s
 
 **Data Pre-processing**
 
-i) Data Merging - We merged IPPS, HVP performance, Average Income and Average Population dataset by
+i) Data Merging - Merged IPPS, HVP performance, Average Income and Average Population dataset by
 performing an inner join on facility ID and state.
 
 ii) Data Transformation
